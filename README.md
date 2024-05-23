@@ -11,7 +11,7 @@ In this course, You will practice more labs of Linux. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                                | Difficulty   | URL                                                                        |
+|   Index | Name                                                | Difficulty   | Practice                                                                   |
 |---------|-----------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 Using While Loop in Bash                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211451'>Start Challenge</a> |
 |     002 | 🎯 Reading Command Line Arguments                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211459'>Start Challenge</a> |
@@ -119,4 +119,9 @@ In this course, You will practice more labs of Linux. This will help you to mast
 |     104 | 📖 Visualize File Differences With Icdiff            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/272381'>Start Lab</a>       |
 |     105 | 📖 Exploring File Systems with Eza                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295948'>Start Lab</a>       |
 |     106 | 📖 Enhance Copying and Moving with Advcpmv           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295937'>Start Lab</a>       |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
